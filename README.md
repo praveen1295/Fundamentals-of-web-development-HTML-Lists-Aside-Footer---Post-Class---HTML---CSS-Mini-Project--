@@ -13,6 +13,6 @@ CSS custom properties
 ## Deployment
 
 the web app is deployed using Netlify which is a free web hosting application.
-Live Link URL : https://scintillating-gnome-34e54c.netlify.app
+Live Link URL : https://paralax-website-by-praveen.netlify.app
 
 
